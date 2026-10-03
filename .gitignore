@@ -1,0 +1,8 @@
+﻿.venv/
+.idea/
+__pycache__/
+*.pyc
+Intro_to_images/test.png
+Intro_to_images/test_video.mp4
+B_Real_time_vision/best.pt
+B_Real_time_vision/yolo26s.pt
